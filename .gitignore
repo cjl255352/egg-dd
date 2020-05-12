@@ -1,3 +1,13 @@
+logs/
+npm-debug.log
 node_modules/
-test/
+coverage/
 .idea/
+.vscode/
+run/
+logs/
+typings/
+.DS_Store
+*.swp
+*.lock
+!.autod.conf.js
