@@ -20,9 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-dd.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-dd
 
-<!--
-Description here.
--->
+适用 egg.js 的钉钉服务端 SDK
 
 ## Install
 
