@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-dd.git"
+    "url": "git+https://github.com/cjl255352/egg-dd.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/cjl255352/egg-dd/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-dd#readme",
+  "homepage": "https://github.com/cjl255352/egg-dd",
   "author": "cjl255352@gmail.com",
   "license": "MIT"
 }

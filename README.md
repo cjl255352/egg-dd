@@ -43,18 +43,23 @@ exports.dd = {
 ```js
 // {app_root}/config/config.default.js
 exports.dd = {
+  client: {
+    corpId: '',
+    appKey: '',
+    appSecret: '',
+    agentId: '',
+    custom: 'boolean 类型，默认为 false，代表应用类型为 “授权服务商开发”',
+    encodingAESKey: 'string 类型，数据加密密钥，用于消息体的加密，长度固定为43个字符，从a-z，A-Z，0-9共62个字符中选取',
+    token: 'string 类型，随机字符串，不能为空',
+  }
 };
 ```
 
 see [config/config.default.js](config/config.default.js) for more detail.
 
-## Example
-
-<!-- example here -->
-
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/cjl255352/egg-dd/issues).
 
 ## License
 
