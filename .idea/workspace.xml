@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +32,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../egg/vue-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +83,13 @@
       <workItem from="1589272507252" duration="55000" />
       <workItem from="1589341722337" duration="13638000" />
       <workItem from="1589419428459" duration="6317000" />
-      <workItem from="1589435671241" duration="3279000" />
+      <workItem from="1589435671241" duration="3327000" />
+      <workItem from="1589513650831" duration="556000" />
+      <workItem from="1589765687377" duration="905000" />
+      <workItem from="1589782271680" duration="7976000" />
+      <workItem from="1589790951388" duration="3000" />
+      <workItem from="1589880783368" duration="847000" />
+      <workItem from="1589940675647" duration="5479000" />
     </task>
     <servers />
   </component>

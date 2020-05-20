@@ -48,7 +48,8 @@ exports.dd = {
     appKey: '',
     appSecret: '',
     agentId: Number,
-    custom: 'boolean 类型，默认为 false，代表应用类型为 “授权服务商开发”',
+    // 以下配置参数有默认值
+    custom: 'boolean 类型，默认为 false，代表应用类型为 “企业内部开发”，true代表 “授权服务商开发”',
     encodingAESKey: 'string 类型，数据加密密钥，用于消息体的加密，长度固定为43个字符，从a-z，A-Z，0-9共62个字符中选取',
     token: 'string 类型，随机字符串，不能为空',
   }
@@ -64,14 +65,17 @@ see [config/config.default.js](config/config.default.js) for more detail.
 |accessToken|钉钉服务端 API 请求数据时需要的access_token，过期时间7000秒|自动获取|
 |request|axios 对象，可以发送请求|只能发送钉钉服务端相关请求，自动配置access_token|
 
-|方法|参数|返回|补充|
-|---|---|---|---|
-|getSignature|时间戳，随机字符串，密文|签名|密文可以通过 encrypt 方法获得|
-|encrypt|明文|密文| |
-|decrypt|密文|明文| |
-|getAccessToken| |access_token| |
-|bizRegister|{<br/>call_back_tag：事件类型数组<br/>url：回调地址<br/>type："register"(默认) 或 "update"<br/>}|错误信息| |
-|bizCallback|明文，默认 "success"|{<br/>msg_signature：消息体签名<br/>timeStamp：时间戳<br/>encrypt：密文<br/>nonce：随机字符串<br/>}| |
+<br/>
+
+|方法|说明|参数|返回|补充|
+|---|---|---|---|---|
+|getSignature| |时间戳，随机字符串，密文|签名|密文可以通过 encrypt 方法获得|
+|encrypt| |明文|密文| |
+|decrypt| |密文|明文| |
+|getAccessToken| | |access_token| |
+|bizRegister| |{<br/>call_back_tag：事件类型数组，<br/>url：回调地址，<br/>type："register"(默认) 或 "update"<br/>}|错误信息| |
+|bizCallback| |明文，默认 "success"|{<br/>msg_signature：消息体签名，<br/>timeStamp：时间戳，<br/>encrypt：密文，<br/>nonce：随机字符串<br/>}| |
+
 完善中...
 ## Questions & Suggestions
 
