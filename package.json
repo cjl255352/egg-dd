@@ -1,6 +1,6 @@
 {
   "name": "egg-dd",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "基于egg.js的钉钉SDK",
   "eggPlugin": {
     "name": "dd"

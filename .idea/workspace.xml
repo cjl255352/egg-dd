@@ -30,7 +30,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../egg/node-dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,7 +88,9 @@
       <workItem from="1589790951388" duration="3000" />
       <workItem from="1589880783368" duration="847000" />
       <workItem from="1589940675647" duration="5479000" />
-      <workItem from="1590035960608" duration="3366000" />
+      <workItem from="1590035960608" duration="4126000" />
+      <workItem from="1590050834003" duration="8000" />
+      <workItem from="1590125593631" duration="7991000" />
     </task>
     <servers />
   </component>
