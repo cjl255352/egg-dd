@@ -4,7 +4,6 @@
     <list default="true" id="809d948d-0a92-4c4e-b130-9a14ebc042ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
+    <property name="last_opened_file_path" value="D:/programs/客户-报销单重做/server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -90,7 +89,14 @@
       <workItem from="1589940675647" duration="5479000" />
       <workItem from="1590035960608" duration="4126000" />
       <workItem from="1590050834003" duration="8000" />
-      <workItem from="1590125593631" duration="7991000" />
+      <workItem from="1590125593631" duration="9020000" />
+      <workItem from="1590466827995" duration="914000" />
+      <workItem from="1590482357907" duration="1095000" />
+      <workItem from="1590548191653" duration="161000" />
+      <workItem from="1590993994893" duration="1907000" />
+      <workItem from="1590999836510" duration="192000" />
+      <workItem from="1591003307409" duration="965000" />
+      <workItem from="1591068786407" duration="2776000" />
     </task>
     <servers />
   </component>
