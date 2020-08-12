@@ -4,6 +4,7 @@
     <list default="true" id="809d948d-0a92-4c4e-b130-9a14ebc042ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/programs/客户-报销单重做/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,7 +98,25 @@
       <workItem from="1590993994893" duration="1907000" />
       <workItem from="1590999836510" duration="192000" />
       <workItem from="1591003307409" duration="965000" />
-      <workItem from="1591068786407" duration="4646000" />
+      <workItem from="1591068786407" duration="7732000" />
+      <workItem from="1591147822619" duration="1244000" />
+      <workItem from="1591941306169" duration="7313000" />
+      <workItem from="1592192481139" duration="4054000" />
+      <workItem from="1592200550361" duration="31000" />
+      <workItem from="1592200919354" duration="4551000" />
+      <workItem from="1592211085910" duration="386000" />
+      <workItem from="1592279090727" duration="122000" />
+      <workItem from="1592901532500" duration="759000" />
+      <workItem from="1596535184611" duration="314000" />
+      <workItem from="1596547611175" duration="160000" />
+      <workItem from="1596779830595" duration="130000" />
+      <workItem from="1597136595957" duration="1012000" />
+      <workItem from="1597194986536" duration="46000" />
+      <workItem from="1597195592933" duration="2000" />
+      <workItem from="1597195688969" duration="3000" />
+      <workItem from="1597199337097" duration="14000" />
+      <workItem from="1597200712400" duration="18000" />
+      <workItem from="1597209749056" duration="771000" />
     </task>
     <servers />
   </component>
