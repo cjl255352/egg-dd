@@ -4,7 +4,6 @@
     <list default="true" id="809d948d-0a92-4c4e-b130-9a14ebc042ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,6 +116,9 @@
       <workItem from="1597199337097" duration="14000" />
       <workItem from="1597200712400" duration="18000" />
       <workItem from="1597209749056" duration="771000" />
+      <workItem from="1597210596773" duration="6000" />
+      <workItem from="1597211053104" duration="80000" />
+      <workItem from="1597211293541" duration="119000" />
     </task>
     <servers />
   </component>
