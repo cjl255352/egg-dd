@@ -5,6 +5,7 @@ declare module 'egg' {
       getDeptList(parentId?: number | string, recursion?: boolean): Promise<void>;
       getRoleTree(): Promise<void>;
       getDeptUserList(departmentId: number | string): Promise<void>;
+      getRoleUserList(roleId: number | string): Promise<void>;
     };
   }
 }
