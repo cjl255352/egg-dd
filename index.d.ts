@@ -6,6 +6,7 @@ declare module 'egg' {
       getRoleTree(): Promise<void>;
       getDeptUserList(departmentId: number | string): Promise<void>;
       getRoleUserList(roleId: number | string): Promise<void>;
+      getUserId(code: string): Promise<void>;
     };
   }
 }
