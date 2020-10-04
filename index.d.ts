@@ -12,6 +12,9 @@ declare module 'egg' {
       delUrl(): Promise<void>;
       decrypt(text: string): string;
       callback(text?: string): object;
+      getAttCols(): Promise<void>;
+      getColsVal(ddUserId: string, colIds: string, from: Date, to: Date): Promise<void>;
+      getLeaveVal(ddUserId: string, leaveNames: string, from: Date, to: Date): Promise<void>;
     };
   }
 }
