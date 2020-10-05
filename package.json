@@ -1,6 +1,6 @@
 {
   "name": "egg-dd",
-  "version": "1.3.3",
+  "version": "1.4.0",
   "description": "基于egg.js的钉钉SDK",
   "eggPlugin": {
     "name": "dd"
@@ -13,7 +13,8 @@
     "ding-talk"
   ],
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "autod": "^3.0.1",

@@ -13,8 +13,8 @@ declare module 'egg' {
       decrypt(text: string): string;
       callback(text?: string): object;
       getAttCols(): Promise<void>;
-      getColsVal(ddUserId: string, colIds: string, from: Date, to: Date): Promise<void>;
-      getLeaveVal(ddUserId: string, leaveNames: string, from: Date, to: Date): Promise<void>;
+      getColsVal(ddUserId: string, colIds: string, from: string, to: string): Promise<void>;
+      getLeaveVal(ddUserId: string, leaveNames: string, from: string, to: string): Promise<void>;
     };
   }
 }
