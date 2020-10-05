@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "axios": "^0.19.2",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "autod": "^3.0.1",
