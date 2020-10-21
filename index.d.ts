@@ -1,6 +1,7 @@
 declare module 'egg' {
   interface Application {
     dd: {
+      jsapiConfig(url: string): Promise<void>;
       getDept(id: number | string): Promise<void>;
       getDeptList(parentId?: number | string, recursion?: boolean): Promise<void>;
       getRoleTree(): Promise<void>;
@@ -15,6 +16,8 @@ declare module 'egg' {
       getAttCols(): Promise<void>;
       getColsVal(ddUserId: string, colIds: string, from: string, to: string): Promise<void>;
       getLeaveVal(ddUserId: string, leaveNames: string, from: string, to: string): Promise<void>;
+      createTodo(data: object): Promise<void>;
+      updateTodo(ddUserId: string, recordId: string): Promise<void>;
     };
   }
 }
