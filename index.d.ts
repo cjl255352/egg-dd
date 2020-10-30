@@ -18,6 +18,7 @@ declare module 'egg' {
       getLeaveVal(ddUserId: string, leaveNames: string, from: string, to: string): Promise<void>;
       createTodo(data: object): Promise<void>;
       updateTodo(ddUserId: string, recordId: string): Promise<void>;
+      getCallbackError(): Promise<[any]>;
     };
   }
 }
