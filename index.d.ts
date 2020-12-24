@@ -19,6 +19,7 @@ declare module 'egg' {
       createTodo(data: object): Promise<void>;
       updateTodo(ddUserId: string, recordId: string): Promise<void>;
       getCallbackError(): Promise<[any]>;
+      createEvent(event: object): Promise<void>
     };
   }
 }
