@@ -2,9 +2,9 @@ declare module 'egg' {
   interface Application {
     dd: {
       jsapiConfig(url: string): Promise<void>;
-      getDept(id: number | string): Promise<void>;
-      getDeptList(parentId?: number | string, recursion?: boolean): Promise<void>;
-      getRoleTree(): Promise<void>;
+      getDept(id: number | string): Promise<any>;
+      getDeptList(parentId?: number | string, recursion?: boolean): Promise<[any]>;
+      getRoleTree(): Promise<[any]>;
       getDeptUserList(departmentId: number | string): Promise<void>;
       getRoleUserList(roleId: number | string): Promise<void>;
       getUserId(code: string): Promise<string>;
