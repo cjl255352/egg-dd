@@ -7,7 +7,8 @@ declare module 'egg' {
       getRoleTree(): Promise<void>;
       getDeptUserList(departmentId: number | string): Promise<void>;
       getRoleUserList(roleId: number | string): Promise<void>;
-      getUserId(code: string): Promise<void>;
+      getUserId(code: string): Promise<string>;
+      getUser(ddUserId: string): Promise<object>;
       getUrl(): Promise<void>;
       setUrl(tags: Array<string>, url: string, type?: string): Promise<void>;
       delUrl(): Promise<void>;
