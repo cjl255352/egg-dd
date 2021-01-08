@@ -35,7 +35,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/programs/cool商城/serve" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -183,6 +183,8 @@
       <workItem from="1609918511962" duration="251000" />
       <workItem from="1609918771517" duration="317000" />
       <workItem from="1610009167892" duration="742000" />
+      <workItem from="1610009965145" duration="1210000" />
+      <workItem from="1610069771163" duration="937000" />
     </task>
     <servers />
   </component>
