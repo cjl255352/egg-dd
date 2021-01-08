@@ -6,7 +6,7 @@ declare module 'egg' {
       getDeptList(parentId?: number | string, recursion?: boolean): Promise<[any]>;
       getRoleTree(): Promise<[any]>;
       getDeptUserList(departmentId: number | string): Promise<[any]>;
-      getRoleUserList(roleId: number | string): Promise<void>;
+      getRoleUserList(roleId: number | string): Promise<[any]>;
       getUserId(code: string): Promise<string>;
       getUser(ddUserId: string): Promise<object>;
       getUrl(): Promise<void>;
