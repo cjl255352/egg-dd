@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="809d948d-0a92-4c4e-b130-9a14ebc042ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
   <component name="ProjectId" id="1bO4HVVWHyulEOj4roEiNdJgyGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -187,7 +189,25 @@
       <workItem from="1610009167892" duration="742000" />
       <workItem from="1610009965145" duration="1210000" />
       <workItem from="1610069771163" duration="3966000" />
-      <workItem from="1610114290345" duration="2193000" />
+      <workItem from="1610114290345" duration="2387000" />
+      <workItem from="1611046933658" duration="286000" />
+      <workItem from="1616914612822" duration="163000" />
+      <workItem from="1616999488129" duration="24000" />
+      <workItem from="1617355136489" duration="1047000" />
+      <workItem from="1617433523105" duration="631000" />
+      <workItem from="1617699531081" duration="2000" />
+      <workItem from="1617870306340" duration="37000" />
+      <workItem from="1617939291762" duration="1320000" />
+      <workItem from="1617941315337" duration="29000" />
+      <workItem from="1617941548831" duration="112000" />
+      <workItem from="1617946575847" duration="1890000" />
+      <workItem from="1617953291779" duration="424000" />
+      <workItem from="1618908722461" duration="697000" />
+      <workItem from="1619074051529" duration="1451000" />
+      <workItem from="1619076458169" duration="61000" />
+      <workItem from="1619077486830" duration="43000" />
+      <workItem from="1619083410715" duration="11000" />
+      <workItem from="1619148592284" duration="187000" />
     </task>
     <servers />
   </component>

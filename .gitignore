@@ -9,3 +9,5 @@ typings/
 *.swp
 *.lock
 !.autod.conf.js
+.github/
+package-lock.json
