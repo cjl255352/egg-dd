@@ -22,6 +22,8 @@ declare module 'egg' {
       getCallbackError(): Promise<[any]>;
       createEvent(event: object): Promise<void>;
       getCustomSpaceId(domain: string): Promise<string>;
+      uploadSingle(fileSize: number, file: FormData): Promise<string>;
+      cspaceAdd(code: string, media_id: string, space_id: string, name: string, folder_id?: string): Promise<any>
     };
   }
 }
