@@ -24,6 +24,7 @@ declare module 'egg' {
       getCustomSpaceId(domain: string): Promise<string>;
       uploadSingle(fileSize: number, file: FormData): Promise<string>;
       cspaceAdd(code: string, media_id: string, space_id: string, name: string, folder_id?: string): Promise<any>
+      spaceAuth(ddUserId: string, type: string, domain: string, fileids: string, path: string): Promise<void>;
     };
   }
 }
